@@ -1,4 +1,4 @@
-# 📱 Chattie App
+# 📱 Chattie - A Personalized Flutter Chat Application
 
 **Chattie App** is a powerful and user-friendly messaging application designed to simplify communication and keep you connected with friends and family. 
 
