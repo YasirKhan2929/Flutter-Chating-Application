@@ -38,13 +38,28 @@ Tailor your app experience with customizable settings for notifications, appeara
 
 The following Flutter packages were used to bring Chattie App to life:
 
-- `google_fonts: ^6.2.1`
-- `intl_phone_field: ^3.2.0`
-- `country_code_picker: ^3.0.0`
-- `flutterotpfield: ^0.0.3`
-- `flutter_chat_ui: ^1.6.15`
-- `image_picker: ^1.1.2`
-- `dash_chat_2: ^0.0.21`
+- [`google_fonts`](https://pub.dev/packages/google_fonts): ^6.2.1
+- [`intl_phone_field`](https://pub.dev/packages/intl_phone_field): ^3.2.0
+- [`country_code_picker`](https://pub.dev/packages/country_code_picker): ^3.0.0
+- [`flutterotpfield`](https://pub.dev/packages/flutterotpfield): ^0.0.3
+- [`flutter_chat_ui`](https://pub.dev/packages/flutter_chat_ui): ^1.6.15
+- [`image_picker`](https://pub.dev/packages/image_picker): ^1.1.2
+- [`dash_chat_2`](https://pub.dev/packages/dash_chat_2): ^0.0.21
+
+---
+
+## 📱 Screens
+
+1. **Registration**: Simple phone number verification.
+2. **Profile Setup**: Add your name and photo.
+3. **Contacts**: View and search contacts.
+4. **Chat Interface**: Messaging screen with Stories feature.
+5. **Media Sharing**: Share photos, videos, and documents.
+6. **Settings**: Customize notifications, appearance, and privacy.
+
+## 📸 Screenshots
+
+![Chattie App Screenshot](path_to_screenshot.png)
 
 ---
 
