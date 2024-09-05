@@ -59,14 +59,22 @@ The following Flutter packages were used to bring Chattie App to life:
 
 ## 📸 Screenshots
 
-![IMG-20240905-WA0004](https://github.com/user-attachments/assets/78fe7a7a-8b84-4b64-9391-6d5e4277365e)
-![IMG-20240824-WA0008](https://github.com/user-attachments/assets/db36f835-dd5d-470e-8b8d-07cf495a81f8)
-![IMG-20240824-WA0007](https://github.com/user-attachments/assets/0ba927d3-d0e3-4e94-9968-112b75f6c8aa)
-![IMG-20240824-WA0006](https://github.com/user-attachments/assets/7ac9a936-2f3f-4a6d-b096-66b396030040)
-![IMG-20240824-WA0005](https://github.com/user-attachments/assets/8d09afcd-f611-4ed6-9458-b617fb488fb4)
-![IMG-20240824-WA0004](https://github.com/user-attachments/assets/777ab94a-f729-4338-b252-1eb0f8c4ab44)
-![IMG-20240824-WA0003](https://github.com/user-attachments/assets/f17bdf43-b9ca-4348-9577-1f26a96fac9c)
-![IMG-20240824-WA0002](https://github.com/user-attachments/assets/9941cd06-9d23-47ae-a827-96e3fdca5011)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/78fe7a7a-8b84-4b64-9391-6d5e4277365e" alt="Screenshot 1" width="30%">
+  <img src="https://github.com/user-attachments/assets/db36f835-dd5d-470e-8b8d-07cf495a81f8" alt="Screenshot 2" width="30%">
+  <img src="https://github.com/user-attachments/assets/0ba927d3-d0e3-4e94-9968-112b75f6c8aa" alt="Screenshot 3" width="30%">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 10px;">
+  <img src="https://github.com/user-attachments/assets/7ac9a936-2f3f-4a6d-b096-66b396030040" alt="Screenshot 4" width="30%">
+  <img src="https://github.com/user-attachments/assets/8d09afcd-f611-4ed6-9458-b617fb488fb4" alt="Screenshot 5" width="30%">
+  <img src="https://github.com/user-attachments/assets/777ab94a-f729-4338-b252-1eb0f8c4ab44" alt="Screenshot 6" width="30%">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-top: 10px;">
+  <img src="https://github.com/user-attachments/assets/f17bdf43-b9ca-4348-9577-1f26a96fac9c" alt="Screenshot 7" width="30%">
+  <img src="https://github.com/user-attachments/assets/9941cd06-9d23-47ae-a827-96e3fdca5011" alt="Screenshot 8" width="30%">
+</div>
 
 ---
 
